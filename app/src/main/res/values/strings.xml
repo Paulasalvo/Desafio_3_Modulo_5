@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Desafio 3</string>
+
+    <string name="dummy_text">El león (Panthera leo) es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera.</string>
+    <string name="leona_text">Nombre Científico: Panthera leo
+\nDescripción:
+El león es un gran felino de África conocido por su melena (en los machos) y su cuerpo musculoso. Son sociales, viven en grupos llamados manadas y cazan en equipo.
+\nHábitat:
+Habitan en África, en diversas regiones como sabanas, praderas y áreas boscosas.
+\nComportamiento:
+Los leones son cazadores sociales que persiguen presas grandes como cebras y ñus. Los machos protegen el territorio y las hembras cazan en grupo.
+\nDieta:
+Son carnívoros y se alimentan de mamíferos como antílopes y búfalos.
+\nReproducción:
+Las hembras dan a luz cachorros después de una gestación de aproximadamente 3.5 meses.
+\nEstado de Conservación:
+Clasificado como "Vulnerable" debido a la pérdida de hábitat y la caza ilegal.
+\nCuriosidades:
+\nLos leones machos pueden tener manes de diferentes tamaños y colores.
+\nSus rugidos se escuchan a varios kilómetros de distancia.
+Prefieren sabanas sobre selvas densas.</string>
+    <string name="dummy_text2">El elefante es un mamífero terrestre de gran tamaño que se caracteriza por su trompa larga y flexible, así como por sus grandes orejas.</string>
+    <string name="dummy_text3">La jirafa es un mamífero herbívoro de cuello largo y patas largas que habita principalmente en África.</string>
+    <string name="elefante_text">Nombre Científico: Elephas maximus (elefante asiático) y Loxodonta africana (elefante africano)\nDescripción:\nEl elefante es un mamífero de gran tamaño con una trompa larga y orejas grandes. Puede tener colmillos (en algunas especies).\n\n\Hábitat:\nSe encuentra en Asia y África, en bosques, sabanas y cerca del agua.\n\nComportamiento:\nSon animales sociales que viven en manadas y se alimentan de plantas.\n\nDieta:\nPrincipalmente herbívoros, comen hierbas, hojas y frutas.\n\nReproducción:\nLa gestación es larga (hasta 22 meses) y las crías son cuidadas por la manada.\n\nEstado de Conservación:\nEl elefante africano está \"Vulnerable\" y el asiático \"En Peligro\" debido a la caza furtiva y la pérdida de hábitat.\n\nCuriosidades:\n\nTienen una memoria impresionante.\nSu trompa es versátil y multifuncional.\nLos colmillos de algunos elefantes están hechos de marfil, lo que los hace vulnerables a la caza ilegal.</string>
+    <string name="jirafa_text">Nombre Científico: Giraffa camelopardalis\n\nDescripción:\nLa jirafa es un mamífero herbívoro de cuello largo y patas largas que habita principalmente en África.\n\nHábitat:\nSe encuentra en las sabanas y áreas arboladas de África.\n\nComportamiento:\nSuelen vivir en grupos y se alimentan principalmente de hojas de árboles altos.\n\nDieta:\nSon herbívoras y su dieta se compone principalmente de hojas, flores y frutos de árboles.\n\nReproducción:\nLas hembras dan a luz a crías que, al nacer, ya son altas.\n\nEstado de Conservación:\nLa jirafa está clasificada como \"Vulnerable\" en la Lista Roja de Especies Amenazadas de la UICN debido a la pérdida de hábitat y la caza.\n\nCuriosidades:\n\nSon los mamíferos terrestres más altos del mundo.\nTienen un cuello extremadamente largo y patas largas adaptadas para alcanzar las hojas en lo alto de los árboles.\nSu patrón de manchas en la piel es único para cada individuo.\n\n\n\n</string>
+
+</resources>
